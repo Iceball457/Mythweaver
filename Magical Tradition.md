@@ -1,5 +1,5 @@
-There are 4 magical traditions, each related to a separate attribute.
-- [[Arcane|Arcane]] uses [[./Intellect|Intellect]].
-- [[Divine|Divine]] uses [[./Wisdom|Wisdom]].
-- [[Primal|Primal]] uses [[./Charisma|Charisma]].
-- [[Occult|Occult]] uses [[./Talent|Talent]].
+There are 4 magical traditions, each related to a separate attribute.  
+- [Arcane](Arcane.md) uses [Intellect](./Intellect.md).  
+- [Divine](Divine.md) uses [Wisdom](./Wisdom.md).  
+- [Primal](Primal.md) uses [Charisma](./Charisma.md).  
+- [Occult](Occult.md) uses [Talent](./Talent.md).
