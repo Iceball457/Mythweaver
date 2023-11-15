@@ -1,0 +1,4 @@
+---
+tags:
+  - Damage_Type
+---
