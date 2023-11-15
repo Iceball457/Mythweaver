@@ -1,0 +1,12 @@
+## Body
+- [[./Strength|Strength]]
+- [[./Agility|Agility]]
+- [[./Vitality|Vitality]]
+## Mind
+- [[./Intellect|Intellect]]
+- [[./Finesse|Finesse]]
+- [[./Awareness|Awareness]]
+## Spirit
+- [[./Wisdom|Wisdom]]
+- [[./Charisma|Charisma]]
+- [[./Talent|Talent]]
