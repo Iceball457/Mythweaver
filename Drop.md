@@ -1,5 +1,5 @@
----
-tags:
-  - Rule
----
-As a [[./Quick Action|Quick Action]] you can drop [[./Prone|Prone]].
+---  
+tags:  
+  - Rule  
+---  
+As a [Quick Action](./Quick%20Action.md) you can drop [Prone](./Prone.md).

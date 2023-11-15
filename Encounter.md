@@ -1,42 +1,42 @@
----
-tags:
-  - Rule
----
-# Game Flow
-When combat starts, each player will make an [[./Awareness|Awareness]] [[./Skill Check|Skill Check]] to set their [[./Initiative|Initiative]]. Once the turn order is set, from the highest initiative to the lowest, characters begin taking turns until the encounter is resolved, whether peacefully or by force.
-
-# Actions
-At the beginning of your turn, you replenish your 2 [[./Action|Actions]] and 1 [[./Quick Action|Quick Action]]. [[./Reaction|Reactions]] cost actions, so you need to save your actions to act outside of your turn. You cannot act outside of your turn unless a reaction or effect allows you to.
-
-- Fight
-	- [[./Attack|Attack]]
-	- [[./Cast|Cast]]
-	- [[./Overwatch|Overwatch]]
-	- [[./Kill|Kill]]
-- Movement
-	- [[./Move|Move]]
-	- [[./Step|Step]]
-	- [[./Stand|Stand]]
-	- [[./Drop|Drop]]
-- Interaction
-	- [[./Equip|Equip]]
-	- [[./Command|Command]]
-	- [[./Activate|Activate]]
-	- [[./Overwatch|Overwatch]]
-- Skill Based
-	- [[./Throw|Throw]] ([[./Strength|Strength]])
-	- [[./Break|Break]] ([[./Strength|Strength]])
-	- [[./Dodge|Dodge]] ([[./Agility|Agility]])
-	- [[./Leap|Leap]] ([[./Agility|Agility]])
-	- [[./Endure|Endure]] ([[./Vitality|Vitality]])
-	- [[./Recall|Recall]] ([[./Intellect|Intellect]])
-	- [[./Hide|Hide]] ([[./Finesse|Finesse]])
-	- [[./Interrupt|Interrupt]] ([[./Awareness|Awareness]])
-	- [[./Seek|Seek]] ([[./Awareness|Awareness]])
-	- [[./Combat Medicine|Combat Medicine]] ([[./Wisdom|Wisdom]])
-	- [[./Focus|Focus]] ([[./Wisdom|Wisdom]])
-	- [[./Taunt|Taunt]] ([[./Charisma|Charisma]])
-	- [[./Cower|Cower]] ([[./Charisma|Charisma]])
-	- [[./Ceasefire|Ceasefire]] ([[./Charisma|Charisma]])
-	- [[./Inspire|Inspire]] ([[./Talent|Talent]])
-	- [[./Intimidate|Intimidate]] ([[./Talent|Talent]])
+---  
+tags:  
+  - Rule  
+---  
+# Game Flow  
+When combat starts, each player will make an [Awareness](./Awareness.md) [Skill Check](./Skill%20Check.md) to set their [Initiative](./Initiative.md). Once the turn order is set, from the highest initiative to the lowest, characters begin taking turns until the encounter is resolved, whether peacefully or by force.  
+  
+# Actions  
+At the beginning of your turn, you replenish your 2 [Actions](./Action.md) and 1 [Quick Action](./Quick%20Action.md). [Reactions](./Reaction.md) cost actions, so you need to save your actions to act outside of your turn. You cannot act outside of your turn unless a reaction or effect allows you to.  
+  
+- Fight  
+	- [Attack](./Attack.md)  
+	- [Cast](./Cast.md)  
+	- [Overwatch](./Overwatch.md)  
+	- [Kill](./Kill.md)  
+- Movement  
+	- [Move](./Move.md)  
+	- [Step](./Step.md)  
+	- [Stand](./Stand.md)  
+	- [Drop](./Drop.md)  
+- Interaction  
+	- [Equip](./Equip.md)  
+	- [Command](./Command.md)  
+	- [Activate](./Activate.md)  
+	- [Overwatch](./Overwatch.md)  
+- Skill Based  
+	- [Throw](./Throw.md) ([Strength](./Strength.md))  
+	- [Break](./Break.md) ([Strength](./Strength.md))  
+	- [Dodge](./Dodge.md) ([Agility](./Agility.md))  
+	- [Leap](./Leap.md) ([Agility](./Agility.md))  
+	- [Endure](./Endure.md) ([Vitality](./Vitality.md))  
+	- [Recall](./Recall.md) ([Intellect](./Intellect.md))  
+	- [Hide](./Hide.md) ([Finesse](./Finesse.md))  
+	- [Interrupt](./Interrupt.md) ([Awareness](./Awareness.md))  
+	- [Seek](./Seek.md) ([Awareness](./Awareness.md))  
+	- [Combat Medicine](./Combat%20Medicine.md) ([Wisdom](./Wisdom.md))  
+	- [Focus](./Focus.md) ([Wisdom](./Wisdom.md))  
+	- [Taunt](./Taunt.md) ([Charisma](./Charisma.md))  
+	- [Cower](./Cower.md) ([Charisma](./Charisma.md))  
+	- [Ceasefire](./Ceasefire.md) ([Charisma](./Charisma.md))  
+	- [Inspire](./Inspire.md) ([Talent](./Talent.md))  
+	- [Intimidate](./Intimidate.md) ([Talent](./Talent.md))  

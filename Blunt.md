@@ -1,10 +1,10 @@
----
-tags:
-  - Damage_Type
-category: Mundane
-rarity: Common
-attack_attr: "[[Strength|Strength]]"
-damage_scaling: "[[Strength|Strength]]"
-brace_attr: "[[Strength|Strength]]"
-avoid_attr: "[[Agility|Agility]]"
----
+---  
+tags:  
+  - Damage_Type  
+category: Mundane  
+rarity: Common  
+attack_attr: "[Strength](Strength.md)"  
+damage_scaling: "[Strength](Strength.md)"  
+brace_attr: "[Strength](Strength.md)"  
+avoid_attr: "[Agility](Agility.md)"  
+---  
