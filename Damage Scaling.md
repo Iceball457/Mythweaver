@@ -2,11 +2,11 @@ The first time you [Attack](./Attack.md) with a [Weapon](./Weapon.md) each turn,
   
 |[Attribute](./Attribute.md) Score|Damage Scaling|  
 |:-:|:-:|  
-|3+|+0|  
-|4+|+1|  
-|6+|+2|  
-|9+|+3|  
-|13+|+4|  
-|16+|+5|  
-|18|+6|  
+|3+|-3|  
+|4+|-2|  
+|6+|-1|  
+|9+|+0|  
+|13+|+1|  
+|16+|+2|  
+|18|+3|  
   
