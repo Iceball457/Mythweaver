@@ -2,4 +2,4 @@
 tags:  
   - Status  
 ---  
-This character is on the ground.
+This [character](./Character.md) is on the ground.

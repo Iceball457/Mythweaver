@@ -24,7 +24,7 @@ Characters can't take biological damage unless their [Ancestry](Ancestry.md) all
 | --------------------------- | -------- | ---------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |  
 | [Precision](./Precision.md) | \-       | \-         | \-                          | \-                          | \-                          | \-                          |  
 | [Blunt](./Blunt.md)         | Common   | Mundane    | [Strength](./Strength.md)   | [Strength](./Strength.md)   | [Strength](./Strength.md)   | [Agility](./Agility.md)     |  
-| [Pierce](./Pierce.md)       | Common   | Mundane    | [Finesse](./Finesse.md)     | [Strength](./Strength.md)   | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
+| [Pierce](./Pierce.md)       | Common   | Mundane    | [Finesse](./Finesse.md)     | [Strength](./Strength.md)   | [Vitality](./Vitality.md)   | [Finesse](./Finesse.md)     |  
 | [Sharp](./Sharp.md)         | Common   | Mundane    | [Agility](./Agility.md)     | [Strength](./Strength.md)   | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
 | [Force](./Force.md)         | Rare     | Magical    | [Talent](./Talent.md)       | [Charisma](./Charisma.md)   | [Charisma](./Charisma.md)   | [Talent](./Talent.md)       |  
 | [Psychic](./Psychic.md)     | Rare     | Biological | [Wisdom](./Wisdom.md)       | [Awareness](./Awareness.md) | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) |  
@@ -33,9 +33,10 @@ Characters can't take biological damage unless their [Ancestry](Ancestry.md) all
 | [Void](./Void.md)           | Rare     | Magical    | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) |  
 | [Acid](./Acid.md)           | Uncommon | Elemental  | [Talent](./Talent.md)       | [Strength](./Strength.md)   | [Strength](./Strength.md)   | [Finesse](./Finesse.md)     |  
 | [Cold](./Cold.md)           | Uncommon | Elemental  | [Intellect](./Intellect.md) | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Finesse](./Finesse.md)     |  
-| [Fire](./Fire.md)           | Uncommon | Elemental  | \*\*                        | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
-| [Lightning](./Lightning.md) | Uncommon | Elemental  | [Intellect](./Intellect.md) | [Intellect](./Intellect.md) | [Intellect](./Intellect.md) | [Awareness](./Awareness.md) |  
-| [Poison](./Poison.md)       | Uncommon | Elemental  | [Intellect](./Intellect.md) | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Talent](./Talent.md)       |  
+| [Fire](./Fire.md)           | Uncommon | Elemental  | \*\*                        | [Finesse](./Finesse.md)     | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
+| [Lightning](./Lightning.md) | Uncommon | Elemental  | [Intellect](./Intellect.md) | [Awareness](./Awareness.md) | [Intellect](./Intellect.md) | [Awareness](./Awareness.md) |  
+| [Poison](./Poison.md)       | Uncommon | Elemental  | [Intellect](./Intellect.md) | [Wisdom](./Wisdom.md)       | [Vitality](./Vitality.md)   | [Talent](./Talent.md)       |  
+  
   
 \*\*Fire is in multiple traditions of magic and the attack attribute depends on which tradition.*  
   

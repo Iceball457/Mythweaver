@@ -4,9 +4,10 @@ tags:
 category: Elemental  
 rarity: Uncommon  
 attack_attr: \*\*  
-damage_scaling: "[Vitality](Vitality.md)"  
+damage_scaling: "[Finesse](Finesse.md)"  
 brace_attr: "[Vitality](Vitality.md)"  
 avoid_attr: "[Agility](Agility.md)"  
+tradition: \*\*  
 ---  
 Fire damage is an excess of energy in a single location. Fire is used in all traditions of magic, and the attack attribute depends on which tradition is being used.  
   

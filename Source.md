@@ -2,7 +2,7 @@
 tags:  
   - Definition  
 ---  
-A source is the combination of a character and effect, usually tracked to prevent stacking.  
+A source is the combination of a [character](./Character.md) and effect, usually tracked to prevent stacking.  
   
 A source is the same if both the character using an ability and the ability being used are the same.  
   
