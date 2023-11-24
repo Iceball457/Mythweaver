@@ -10,7 +10,7 @@ At the beginning of your turn, you replenish your 2 [Actions](./Action.md) and 1
   
 - Fight  
 	- [Attack](./Attack.md)  
-	- [Cast](./Cast.md)  
+	- [Cast a Spell](./Cast%20a%20Spell.md)  
 	- [Overwatch](./Overwatch.md)  
 	- [Kill](./Kill.md)  
 - Movement  
