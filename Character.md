@@ -34,7 +34,7 @@ Choose one of the following, per your DM.
  |8|7|6|  
  |7|6|5|  
  |6|5|4|  
-*The standard array.*  
+^standard-array  
   
 ### Rolled Attributes  
   
@@ -45,7 +45,7 @@ Then, roll `3d6 keep 2` 8 times, and assign the results to each of your other at
   
 [Agility](./Agility.md), [Intellect](./Intellect.md), [Finesse](./Finesse.md), [Wisdom](./Wisdom.md), [Charisma](./Charisma.md), and [Talent](./Talent.md) all have calculated values. These values change at 3, 4, 6, 9, 13, 16, and 18, and are used to convert your attribute values into more useful numbers like movement speed in feet per action.  
   
-|Value|Movement|Range|Spell Rank|  
+|Value|Movement|Range|Casting Rank|  
 |:-:|:-:|:-:|:-:|  
 |3+|10'|20'|N/A|  
 |4+|15'|30'|1st|  
