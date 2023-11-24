@@ -13,7 +13,7 @@ If there are [Random Encounters](Random%20Encounters.md) in your area, they will
   
 # Activities  
 - **Move**: Any members of the party may move together using the slowest [Exploration Speed](./Exploration%20Speed.md) among members of that group.  
-- **Search**: A single character may spend 1 stretch to roll [Awareness](./Awareness.md) attempt to find secrets in a 10' area.  
+- **Search**: A single [Character](./Character.md) may spend 1 stretch to roll [Awareness](./Awareness.md) attempt to find secrets in a 10' area.  
 - **Rest**: Any members of the party may rest together.  
 	- **Medicine**: A single character may spend 1 stretch to roll [Wisdom](./Wisdom.md) to remove `1d4` damage of one type from themselves or another resting party member. On a failure, remove 1 damage instead.  
 	- **Repair**: A single character may spend 1 stretch to roll [Talent](./Talent.md) to restore a set of armor or shield.  
