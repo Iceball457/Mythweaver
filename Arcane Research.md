@@ -3,9 +3,9 @@ tags:
   - Rule  
   - Definition  
 ---  
-Every 2 [Stretches](./Stretch.md) spent researching grants the character an amount of arcane research equal to their [Intellect](./Intellect.md). Every 1 stretch spent researching grants half that amount rounded down.  
+Every 2 [Stretches](./Stretch.md) spent researching grants the [character](./Character.md) an amount of arcane research equal to their [Intellect](./Intellect.md). Every 1 stretch spent researching grants half that amount rounded down.  
   
-For example, a character with 11 intellect that spends 3 stretches researching gains `11 * 3/2 = 16` arcane research.  
+For example, a [character](./Character.md) with 11 intellect that spends 3 stretches researching gains `11 * 3/2 = 16` arcane research.  
   
 Arcane research is a temporary resource that must be spent before the character finishes resting. It can be spent preparing arcane spells and scrolls. The cost of researching a spell may be listed, otherwise use the following values.  
   
