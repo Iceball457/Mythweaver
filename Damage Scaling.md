@@ -1,4 +1,8 @@
-The first time you [Attack](./Attack.md) with a [Weapon](./Weapon.md) each turn, you may add the weapon's damage scaling to the damage of your attack.  
+---  
+tags:  
+  - Rule  
+---  
+Whenever you [Attack](./Attack.md) with a [Weapon](./Weapon.md), add the weapon's damage scaling to the damage of your attack.  
   
 |[Attribute](./Attribute.md) Score|Damage Scaling|  
 |:-:|:-:|  
