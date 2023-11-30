@@ -9,4 +9,4 @@ brace_attr: "[Intellect](Intellect.md)"
 avoid_attr: "[Awareness](Awareness.md)"  
 tradition: Arcane  
 ---  
-Lightning is the movement of electricity and information. It is wielded by the [Arcane](Arcane.md).
+Lightning is the movement of electricity and information. It is wielded by the [Arcane](./Arcane.md).
