@@ -1,6 +1,6 @@
 ---  
 tags:  
   - Item  
-price: "25"  
+price: "15"  
 ---  
 Can be used for anchoring a rope.

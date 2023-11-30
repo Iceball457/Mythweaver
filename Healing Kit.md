@@ -4,9 +4,9 @@ tags:
   - Consumable  
 price: "20"  
 ---  
-Healing kits come in several varieties for different kinds of wounds. Each healing kit is specialized for a certain damage type, and can be spend to recover up to `2d6` damage of that type.  
+Healing kits come in several varieties for different kinds of wounds. Each healing kit is specialized for a certain damage type, and can be spent to recover up to `2d4` damage of that type.  
   
-Healing kit contents can also be used separately, if needed for other purposes.  
+Healing kit contents can also be separated, if the components are needed for other purposes.  
   
 |Kit Type|Contents|  
 |---|---|  

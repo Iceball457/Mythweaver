@@ -1,3 +1,7 @@
+---  
+tags:  
+  - Definition  
+---  
 ## Body  
 - [Strength](./Strength.md)  
 - [Agility](./Agility.md)  

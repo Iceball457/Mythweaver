@@ -1,3 +1,7 @@
+---  
+tags:  
+  - Rule  
+---  
 # Overview  
   
 Weapons modify the effects of [Attacking](./Attack.md) when equipped.  
@@ -36,18 +40,18 @@ Lighter weapons hit more frequently. Heavy weapons are difficult to use, but dea
 | File                        | Category   | Rarity   | [Attack Attribute](Attack%20Attribute.md)        | [Damage Scaling](Damage%20Scaling.md)          | [Brace Attribute](Brace%20Attribute.md)         | [Avoid Attribute](Avoid%20Attribute.md)         |  
 | --------------------------- | ---------- | -------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |  
 | [Precision](./Precision.md) | \-         | \-       | \-                          | \-                          | \-                          | \-                          |  
-| [Psychic](./Psychic.md)     | Biological | Rare     | [Wisdom](./Wisdom.md)       | [Awareness](./Awareness.md) | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) |  
+| [Psychic](./Psychic.md)     | Biological | Rare     | [Talent](./Talent.md)       | [Awareness](./Awareness.md) | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) |  
 | [Acid](./Acid.md)           | Elemental  | Uncommon | [Talent](./Talent.md)       | [Strength](./Strength.md)   | [Strength](./Strength.md)   | [Finesse](./Finesse.md)     |  
 | [Cold](./Cold.md)           | Elemental  | Uncommon | [Intellect](./Intellect.md) | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Finesse](./Finesse.md)     |  
-| [Fire](./Fire.md)           | Elemental  | Uncommon | \*\*                        | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
-| [Lightning](./Lightning.md) | Elemental  | Uncommon | [Intellect](./Intellect.md) | [Intellect](./Intellect.md) | [Intellect](./Intellect.md) | [Awareness](./Awareness.md) |  
-| [Poison](./Poison.md)       | Elemental  | Uncommon | [Intellect](./Intellect.md) | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Talent](./Talent.md)       |  
+| [Fire](./Fire.md)           | Elemental  | Uncommon | \*\*                        | [Finesse](./Finesse.md)     | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
+| [Lightning](./Lightning.md) | Elemental  | Uncommon | [Intellect](./Intellect.md) | [Awareness](./Awareness.md) | [Intellect](./Intellect.md) | [Awareness](./Awareness.md) |  
+| [Poison](./Poison.md)       | Elemental  | Uncommon | [Intellect](./Intellect.md) | [Wisdom](./Wisdom.md)       | [Vitality](./Vitality.md)   | [Talent](./Talent.md)       |  
 | [Sonic](./Sonic.md)         | Elemental  | Rare     | [Talent](./Talent.md)       | [Vitality](./Vitality.md)   | [Vitality](./Vitality.md)   | [Awareness](./Awareness.md) |  
-| [Force](./Force.md)         | Magical    | Rare     | [Talent](./Talent.md)       | [Charisma](./Charisma.md)   | [Charisma](./Charisma.md)   | [Talent](./Talent.md)       |  
+| [Force](./Force.md)         | Magical    | Rare     | \*\*                        | [Charisma](./Charisma.md)   | [Charisma](./Charisma.md)   | [Talent](./Talent.md)       |  
 | [Radiant](./Radiant.md)     | Magical    | Rare     | [Wisdom](./Wisdom.md)       | [Charisma](./Charisma.md)   | [Wisdom](./Wisdom.md)       | [Charisma](./Charisma.md)   |  
 | [Void](./Void.md)           | Magical    | Rare     | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) | [Wisdom](./Wisdom.md)       | [Intellect](./Intellect.md) |  
 | [Blunt](./Blunt.md)         | Mundane    | Common   | [Strength](./Strength.md)   | [Strength](./Strength.md)   | [Strength](./Strength.md)   | [Agility](./Agility.md)     |  
-| [Pierce](./Pierce.md)       | Mundane    | Common   | [Finesse](./Finesse.md)     | [Strength](./Strength.md)   | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
+| [Pierce](./Pierce.md)       | Mundane    | Common   | [Finesse](./Finesse.md)     | [Strength](./Strength.md)   | [Vitality](./Vitality.md)   | [Finesse](./Finesse.md)     |  
 | [Sharp](./Sharp.md)         | Mundane    | Common   | [Agility](./Agility.md)     | [Strength](./Strength.md)   | [Vitality](./Vitality.md)   | [Agility](./Agility.md)     |  
   
 *\*If a weapon is enchanted, the attack attribute is the same as the mundane type that weapon would deal if it were not enchanted. The listed attribute is for spellcasting.  
